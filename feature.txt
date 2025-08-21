@@ -1,2 +1,6 @@
 add feature, this is a new future.
+<<<<<<< HEAD
 git main modify
+=======
+feature1 modify m m m
+>>>>>>> feature1
